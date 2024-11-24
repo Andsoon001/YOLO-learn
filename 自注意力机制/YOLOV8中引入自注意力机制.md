@@ -350,8 +350,6 @@ Transferred 402/643 items from pretrained weights
 
 > 参考链接：https://github.com/ultralytics/ultralytics/issues/2741
 
-由于公众号文章无法大范围多次修改，文章同步更新到了我的github上
-
 
 
 
